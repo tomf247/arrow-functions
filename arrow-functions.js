@@ -12,9 +12,12 @@ let sum = addTwoNumbers(3,5);
 console.log(sum);
 
 // Arrow Function With Parameters
+const addTwoNumbers = (a , b) => a + b 
 
 // Single Line Arrow Function With Parameters
 
+
 // Implicit Returns
+const sayHello = () => console.log('hello');
 
 // Returning Multiple Lines
